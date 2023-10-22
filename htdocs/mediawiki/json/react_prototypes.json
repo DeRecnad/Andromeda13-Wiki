@@ -1,0 +1,4053 @@
+{
+    "TranexamicAcid": {
+        "id": "TranexamicAcid",
+        "name": "",
+        "reactants": {
+            "Inaprovaline": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "SulfuricAcid": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Sugar": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "TranexamicAcid": 3
+        },
+        "effects": []
+    },
+    "CookingMayoVinegar": {
+        "id": "CookingMayoVinegar",
+        "name": "",
+        "reactants": {
+            "Vinegar": {
+                "amount": 5,
+                "catalyst": false
+            },
+            "Oil": {
+                "amount": 5,
+                "catalyst": false
+            },
+            "Egg": {
+                "amount": 6,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Mayo": 15
+        },
+        "effects": []
+    },
+    "RootBeerFloat": {
+        "id": "RootBeerFloat",
+        "name": "",
+        "reactants": {
+            "RootBeer": {
+                "amount": 2,
+                "catalyst": false
+            },
+            "IceCream": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "RootBeerFloat": 3
+        },
+        "effects": []
+    },
+    "Silencer": {
+        "id": "Silencer",
+        "name": "",
+        "reactants": {
+            "Nothing": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Cream": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Sugar": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Silencer": 3
+        },
+        "effects": []
+    },
+    "AtomicBomb": {
+        "id": "AtomicBomb",
+        "name": "",
+        "reactants": {
+            "B52": {
+                "amount": 10,
+                "catalyst": false
+            },
+            "Uranium": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "AtomicBomb": 11
+        },
+        "effects": []
+    },
+    "CookingKetchunaise": {
+        "id": "CookingKetchunaise",
+        "name": "",
+        "reactants": {
+            "Ketchup": {
+                "amount": 5,
+                "catalyst": false
+            },
+            "Mayo": {
+                "amount": 5,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Ketchunaise": 10
+        },
+        "effects": []
+    },
+    "BloodyMary": {
+        "id": "BloodyMary",
+        "name": "",
+        "reactants": {
+            "JuiceLime": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "JuiceTomato": {
+                "amount": 3,
+                "catalyst": false
+            },
+            "Vodka": {
+                "amount": 2,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "BloodyMary": 6
+        },
+        "effects": []
+    },
+    "Left4Zed": {
+        "id": "Left4Zed",
+        "name": "",
+        "reactants": {
+            "EZNutrient": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Radium": {
+                "amount": 1,
+                "catalyst": true
+            }
+        },
+        "products": {
+            "Left4Zed": 1
+        },
+        "effects": []
+    },
+    "LongIslandIcedTea": {
+        "id": "LongIslandIcedTea",
+        "name": "",
+        "reactants": {
+            "CubaLibre": {
+                "amount": 3,
+                "catalyst": false
+            },
+            "Gin": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Tequila": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Vodka": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "LongIslandIcedTea": 6
+        },
+        "effects": []
+    },
+    "ErikaSurprise": {
+        "id": "ErikaSurprise",
+        "name": "",
+        "reactants": {
+            "Ale": {
+                "amount": 2,
+                "catalyst": false
+            },
+            "Ice": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "JuiceBanana": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "JuiceLime": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Whiskey": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "ErikaSurprise": 6
+        },
+        "effects": []
+    },
+    "IrishCream": {
+        "id": "IrishCream",
+        "name": "",
+        "reactants": {
+            "Cream": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Whiskey": {
+                "amount": 2,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "IrishCream": 3
+        },
+        "effects": []
+    },
+    "Impedrezene": {
+        "id": "Impedrezene",
+        "name": "",
+        "reactants": {
+            "Mercury": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Oxygen": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Water": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Impedrezene": 1
+        },
+        "effects": []
+    },
+    "Dexalin": {
+        "id": "Dexalin",
+        "name": "",
+        "reactants": {
+            "Oxygen": {
+                "amount": 2,
+                "catalyst": false
+            },
+            "Plasma": {
+                "amount": 1,
+                "catalyst": true
+            }
+        },
+        "products": {
+            "Dexalin": 3
+        },
+        "effects": []
+    },
+    "Leporazine": {
+        "id": "Leporazine",
+        "name": "",
+        "reactants": {
+            "Silicon": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Copper": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Plasma": {
+                "amount": 1,
+                "catalyst": true
+            }
+        },
+        "products": {
+            "Leporazine": 2
+        },
+        "effects": []
+    },
+    "Napalm": {
+        "id": "Napalm",
+        "name": "",
+        "reactants": {
+            "Oil": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "WeldingFuel": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Ethanol": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Napalm": 3
+        },
+        "effects": []
+    },
+    "CookingMayoLemon": {
+        "id": "CookingMayoLemon",
+        "name": "",
+        "reactants": {
+            "JuiceLemon": {
+                "amount": 5,
+                "catalyst": false
+            },
+            "Oil": {
+                "amount": 5,
+                "catalyst": false
+            },
+            "Egg": {
+                "amount": 6,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Mayo": 15
+        },
+        "effects": []
+    },
+    "Ephedrine": {
+        "id": "Ephedrine",
+        "name": "",
+        "reactants": {
+            "Oil": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Hydrogen": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Sugar": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Diethylamine": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Ephedrine": 4
+        },
+        "effects": []
+    },
+    "SulfuricAcid": {
+        "id": "SulfuricAcid",
+        "name": "",
+        "reactants": {
+            "Hydrogen": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Sulfur": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Oxygen": {
+                "amount": 2,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "SulfuricAcid": 3
+        },
+        "effects": []
+    },
+    "CreateChocolate": {
+        "id": "CreateChocolate",
+        "name": "",
+        "reactants": {
+            "CocoaPowder": {
+                "amount": 4,
+                "catalyst": false
+            },
+            "Milk": {
+                "amount": 2,
+                "catalyst": false
+            },
+            "Sugar": {
+                "amount": 2,
+                "catalyst": false
+            }
+        },
+        "products": {},
+        "effects": [
+            {
+                "Entity": "FoodSnackChocolateBar",
+                "Number": 1,
+                "conditions": null,
+                "probability": 1,
+                "id": "CreateEntityReactionEffect",
+                "ReagentEffectFormat": "guidebook-reagent-effect-description"
+            }
+        ]
+    },
+    "ThreeMileIsland": {
+        "id": "ThreeMileIsland",
+        "name": "",
+        "reactants": {
+            "LongIslandIcedTea": {
+                "amount": 10,
+                "catalyst": false
+            },
+            "Uranium": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "ThreeMileIsland": 10
+        },
+        "effects": []
+    },
+    "SyndicateBomb": {
+        "id": "SyndicateBomb",
+        "name": "",
+        "reactants": {
+            "Beer": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "WhiskeyCola": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "SyndicateBomb": 2
+        },
+        "effects": []
+    },
+    "VodkaTonic": {
+        "id": "VodkaTonic",
+        "name": "",
+        "reactants": {
+            "Vodka": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "TonicWater": {
+                "amount": 2,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "VodkaTonic": 3
+        },
+        "effects": []
+    },
+    "SoyLatte": {
+        "id": "SoyLatte",
+        "name": "",
+        "reactants": {
+            "Coffee": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "MilkSoy": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "SoyLatte": 2
+        },
+        "effects": []
+    },
+    "Starkist": {
+        "id": "Starkist",
+        "name": "",
+        "reactants": {
+            "Cola": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "JuiceOrange": {
+                "amount": 2,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Starkist": 3
+        },
+        "effects": []
+    },
+    "DemonsBlood": {
+        "id": "DemonsBlood",
+        "name": "",
+        "reactants": {
+            "Rum": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Blood": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "DrGibb": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "SpaceMountainWind": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "DemonsBlood": 4
+        },
+        "effects": []
+    },
+    "Cognizine": {
+        "id": "Cognizine",
+        "name": "",
+        "reactants": {
+            "CarpoToxin": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Siderlac": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Acetone": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Cognizine": 1
+        },
+        "effects": []
+    },
+    "TableSalt": {
+        "id": "TableSalt",
+        "name": "",
+        "reactants": {
+            "Chlorine": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Sodium": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "TableSalt": 2
+        },
+        "effects": []
+    },
+    "Phalanximine": {
+        "id": "Phalanximine",
+        "name": "",
+        "reactants": {
+            "Hyronalin": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Ethanol": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "UnstableMutagen": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Phalanximine": 3
+        },
+        "effects": []
+    },
+    "EZNutrient": {
+        "id": "EZNutrient",
+        "name": "",
+        "reactants": {
+            "Nitrogen": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Phosphorus": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Potassium": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "EZNutrient": 3
+        },
+        "effects": []
+    },
+    "CreateCornmealDough": {
+        "id": "CreateCornmealDough",
+        "name": "",
+        "reactants": {
+            "Cornmeal": {
+                "amount": 15,
+                "catalyst": false
+            },
+            "Milk": {
+                "amount": 10,
+                "catalyst": false
+            },
+            "Egg": {
+                "amount": 6,
+                "catalyst": false
+            }
+        },
+        "products": {},
+        "effects": [
+            {
+                "Entity": "FoodDoughCornmeal",
+                "Number": 1,
+                "conditions": null,
+                "probability": 1,
+                "id": "CreateEntityReactionEffect",
+                "ReagentEffectFormat": "guidebook-reagent-effect-description"
+            }
+        ]
+    },
+    "RedMead": {
+        "id": "RedMead",
+        "name": "",
+        "reactants": {
+            "Mead": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Blood": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "RedMead": 2
+        },
+        "effects": []
+    },
+    "CafeLatte": {
+        "id": "CafeLatte",
+        "name": "",
+        "reactants": {
+            "Coffee": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Milk": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "CafeLatte": 2
+        },
+        "effects": []
+    },
+    "Cryptobiolin": {
+        "id": "Cryptobiolin",
+        "name": "",
+        "reactants": {
+            "Potassium": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Oxygen": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Sugar": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Cryptobiolin": 3
+        },
+        "effects": []
+    },
+    "CreateTortillaDough": {
+        "id": "CreateTortillaDough",
+        "name": "",
+        "reactants": {
+            "Cornmeal": {
+                "amount": 15,
+                "catalyst": false
+            },
+            "Water": {
+                "amount": 10,
+                "catalyst": false
+            }
+        },
+        "products": {},
+        "effects": [
+            {
+                "Entity": "FoodDoughTortilla",
+                "Number": 1,
+                "conditions": null,
+                "probability": 1,
+                "id": "CreateEntityReactionEffect",
+                "ReagentEffectFormat": "guidebook-reagent-effect-description"
+            }
+        ]
+    },
+    "Tricordrazine": {
+        "id": "Tricordrazine",
+        "name": "",
+        "reactants": {
+            "Inaprovaline": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Dylovene": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Tricordrazine": 2
+        },
+        "effects": []
+    },
+    "Amasec": {
+        "id": "Amasec",
+        "name": "",
+        "reactants": {
+            "Wine": {
+                "amount": 2,
+                "catalyst": false
+            },
+            "Vodka": {
+                "amount": 2,
+                "catalyst": false
+            },
+            "Iron": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Amasec": 5
+        },
+        "effects": []
+    },
+    "Barefoot": {
+        "id": "Barefoot",
+        "name": "",
+        "reactants": {
+            "Cream": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Vermouth": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "JuiceBerry": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Barefoot": 3
+        },
+        "effects": []
+    },
+    "CreatePieDough": {
+        "id": "CreatePieDough",
+        "name": "",
+        "reactants": {
+            "Flour": {
+                "amount": 15,
+                "catalyst": false
+            },
+            "Egg": {
+                "amount": 12,
+                "catalyst": false
+            },
+            "TableSalt": {
+                "amount": 5,
+                "catalyst": false
+            }
+        },
+        "products": {},
+        "effects": [
+            {
+                "Entity": "FoodDoughPie",
+                "Number": 1,
+                "conditions": null,
+                "probability": 1,
+                "id": "CreateEntityReactionEffect",
+                "ReagentEffectFormat": "guidebook-reagent-effect-description"
+            }
+        ]
+    },
+    "UnstableMutagen": {
+        "id": "UnstableMutagen",
+        "name": "",
+        "reactants": {
+            "Radium": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Phosphorus": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Chlorine": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "UnstableMutagen": 3
+        },
+        "effects": []
+    },
+    "Lipozine": {
+        "id": "Lipozine",
+        "name": "",
+        "reactants": {
+            "TableSalt": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Ethanol": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Radium": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Lipozine": 3
+        },
+        "effects": []
+    },
+    "HotRamen": {
+        "id": "HotRamen",
+        "name": "",
+        "reactants": {
+            "DryRamen": {
+                "amount": 3,
+                "catalyst": false
+            },
+            "Water": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "HotRamen": 3
+        },
+        "effects": []
+    },
+    "DexalinPlus": {
+        "id": "DexalinPlus",
+        "name": "",
+        "reactants": {
+            "Dexalin": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Carbon": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Iron": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "DexalinPlus": 3
+        },
+        "effects": []
+    },
+    "Diethylamine": {
+        "id": "Diethylamine",
+        "name": "",
+        "reactants": {
+            "Ammonia": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Ethanol": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Diethylamine": 2
+        },
+        "effects": []
+    },
+    "WhiskeySoda": {
+        "id": "WhiskeySoda",
+        "name": "",
+        "reactants": {
+            "SodaWater": {
+                "amount": 2,
+                "catalyst": false
+            },
+            "Whiskey": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "WhiskeySoda": 3
+        },
+        "effects": []
+    },
+    "HeartbreakerToxin": {
+        "id": "HeartbreakerToxin",
+        "name": "",
+        "reactants": {
+            "DexalinPlus": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "MindbreakerToxin": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "HeartbreakerToxin": 2
+        },
+        "effects": []
+    },
+    "Sbiten": {
+        "id": "Sbiten",
+        "name": "",
+        "reactants": {
+            "Vodka": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "CapsaicinOil": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Sbiten": 2
+        },
+        "effects": []
+    },
+    "PolytrinicAcid": {
+        "id": "PolytrinicAcid",
+        "name": "",
+        "reactants": {
+            "SulfuricAcid": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Plasma": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Potassium": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "PolytrinicAcid": 3
+        },
+        "effects": []
+    },
+    "Ipecac": {
+        "id": "Ipecac",
+        "name": "",
+        "reactants": {
+            "Potassium": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Nitrogen": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Ammonia": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Ipecac": 2
+        },
+        "effects": []
+    },
+    "Ethylredoxrazine": {
+        "id": "Ethylredoxrazine",
+        "name": "",
+        "reactants": {
+            "Oxygen": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Dylovene": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Carbon": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Ethylredoxrazine": 3
+        },
+        "effects": []
+    },
+    "Synaptizine": {
+        "id": "Synaptizine",
+        "name": "",
+        "reactants": {
+            "Lithium": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Sugar": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Water": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Synaptizine": 3
+        },
+        "effects": []
+    },
+    "MindbreakerToxin": {
+        "id": "MindbreakerToxin",
+        "name": "",
+        "reactants": {
+            "Silicon": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Hydrogen": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Dylovene": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "MindbreakerToxin": 3
+        },
+        "effects": []
+    },
+    "Inaprovaline": {
+        "id": "Inaprovaline",
+        "name": "",
+        "reactants": {
+            "Oxygen": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Carbon": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Sugar": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Inaprovaline": 3
+        },
+        "effects": []
+    },
+    "Antifreeze": {
+        "id": "Antifreeze",
+        "name": "",
+        "reactants": {
+            "Cream": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Ice": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Vodka": {
+                "amount": 2,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Antifreeze": 4
+        },
+        "effects": []
+    },
+    "Lexorin": {
+        "id": "Lexorin",
+        "name": "",
+        "reactants": {
+            "HeartbreakerToxin": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Plasma": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Lexorin": 2
+        },
+        "effects": []
+    },
+    "Siderlac": {
+        "id": "Siderlac",
+        "name": "",
+        "reactants": {
+            "Aloe": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Stellibinin": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Siderlac": 2
+        },
+        "effects": []
+    },
+    "Hyronalin": {
+        "id": "Hyronalin",
+        "name": "",
+        "reactants": {
+            "Radium": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Dylovene": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Hyronalin": 2
+        },
+        "effects": []
+    },
+    "Margarita": {
+        "id": "Margarita",
+        "name": "",
+        "reactants": {
+            "Tequila": {
+                "amount": 2,
+                "catalyst": false
+            },
+            "JuiceLime": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Margarita": 3
+        },
+        "effects": []
+    },
+    "Goldschlager": {
+        "id": "Goldschlager",
+        "name": "",
+        "reactants": {
+            "Gold": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Vodka": {
+                "amount": 10,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Goldschlager": 10
+        },
+        "effects": []
+    },
+    "Diphenylmethylamine": {
+        "id": "Diphenylmethylamine",
+        "name": "",
+        "reactants": {
+            "Ethyloxyephedrine": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "SodiumCarbonate": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Coffee": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Diphenylmethylamine": 3
+        },
+        "effects": []
+    },
+    "CookingBbqSauce": {
+        "id": "CookingBbqSauce",
+        "name": "",
+        "reactants": {
+            "Ketchup": {
+                "amount": 5,
+                "catalyst": false
+            },
+            "Vinegar": {
+                "amount": 5,
+                "catalyst": false
+            },
+            "Sugar": {
+                "amount": 5,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "BbqSauce": 15
+        },
+        "effects": []
+    },
+    "Hooch": {
+        "id": "Hooch",
+        "name": "",
+        "reactants": {
+            "Ethanol": {
+                "amount": 2,
+                "catalyst": false
+            },
+            "WeldingFuel": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Enzyme": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Hooch": 3
+        },
+        "effects": []
+    },
+    "WhiteRussian": {
+        "id": "WhiteRussian",
+        "name": "",
+        "reactants": {
+            "BlackRussian": {
+                "amount": 2,
+                "catalyst": false
+            },
+            "Cream": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "WhiteRussian": 3
+        },
+        "effects": []
+    },
+    "CreateCakeBatter": {
+        "id": "CreateCakeBatter",
+        "name": "",
+        "reactants": {
+            "Flour": {
+                "amount": 15,
+                "catalyst": false
+            },
+            "Egg": {
+                "amount": 12,
+                "catalyst": false
+            },
+            "Sugar": {
+                "amount": 5,
+                "catalyst": false
+            }
+        },
+        "products": {},
+        "effects": [
+            {
+                "Entity": "FoodCakeBatter",
+                "Number": 1,
+                "conditions": null,
+                "probability": 1,
+                "id": "CreateEntityReactionEffect",
+                "ReagentEffectFormat": "guidebook-reagent-effect-description"
+            }
+        ]
+    },
+    "Doxarubixadone": {
+        "id": "Doxarubixadone",
+        "name": "",
+        "reactants": {
+            "Cryoxadone": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "UnstableMutagen": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Doxarubixadone": 2
+        },
+        "effects": []
+    },
+    "ProteinCooking": {
+        "id": "ProteinCooking",
+        "name": "",
+        "reactants": {
+            "UncookedAnimalProteins": {
+                "amount": 0.5,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Protein": 0.5
+        },
+        "effects": []
+    },
+    "AluminiumMetalFoam": {
+        "id": "AluminiumMetalFoam",
+        "name": "",
+        "reactants": {
+            "Aluminium": {
+                "amount": 3,
+                "catalyst": false
+            },
+            "FoamingAgent": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "FluorosulfuricAcid": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {},
+        "effects": [
+            {
+                "_duration": 10,
+                "OverflowThreshold": {
+                    "Value": 250
+                },
+                "_prototypeId": "AluminiumMetalFoam",
+                "_sound": {
+                    "Path": {
+                        "IsSelf": false,
+                        "Extension": "ogg",
+                        "FilenameWithoutExtension": "extinguish",
+                        "Filename": "extinguish.ogg",
+                        "IsRooted": true,
+                        "IsRelative": false
+                    },
+                    "Params": {
+                        "Attenuation": 0,
+                        "Volume": 0,
+                        "PitchScale": 1,
+                        "BusName": "Master",
+                        "MaxDistance": 25,
+                        "RolloffFactor": 1,
+                        "ReferenceDistance": 1,
+                        "Loop": false,
+                        "PlayOffsetSeconds": 0,
+                        "Variation": null
+                    }
+                },
+                "conditions": null,
+                "probability": 1,
+                "id": "AreaReactionEffect",
+                "ReagentEffectFormat": "guidebook-reagent-effect-description"
+            }
+        ]
+    },
+    "GinFizz": {
+        "id": "GinFizz",
+        "name": "",
+        "reactants": {
+            "Gin": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "JuiceLime": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "SodaWater": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "GinFizz": 3
+        },
+        "effects": []
+    },
+    "PotassiumExplosion": {
+        "id": "PotassiumExplosion",
+        "name": "",
+        "reactants": {
+            "Water": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Potassium": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {},
+        "effects": [
+            {
+                "conditions": null,
+                "probability": 1,
+                "id": "ExplosionReactionEffect",
+                "ReagentEffectFormat": "guidebook-reagent-effect-description"
+            }
+        ]
+    },
+    "Charcoal": {
+        "id": "Charcoal",
+        "name": "",
+        "reactants": {
+            "Carbon": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Ash": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Charcoal": 1
+        },
+        "effects": []
+    },
+    "IcedGreenTea": {
+        "id": "IcedGreenTea",
+        "name": "",
+        "reactants": {
+            "GreenTea": {
+                "amount": 2,
+                "catalyst": false
+            },
+            "Ice": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "IcedGreenTea": 3
+        },
+        "effects": []
+    },
+    "Thermite": {
+        "id": "Thermite",
+        "name": "",
+        "reactants": {
+            "Iron": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Aluminium": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Oxygen": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Thermite": 3
+        },
+        "effects": []
+    },
+    "FluorosulfuricAcid": {
+        "id": "FluorosulfuricAcid",
+        "name": "",
+        "reactants": {
+            "Fluorine": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Hydrogen": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Potassium": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "SulfuricAcid": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "FluorosulfuricAcid": 4
+        },
+        "effects": []
+    },
+    "CreateVeganCakeBatter": {
+        "id": "CreateVeganCakeBatter",
+        "name": "",
+        "reactants": {
+            "Flour": {
+                "amount": 15,
+                "catalyst": false
+            },
+            "MilkSoy": {
+                "amount": 15,
+                "catalyst": false
+            },
+            "Sugar": {
+                "amount": 5,
+                "catalyst": false
+            }
+        },
+        "products": {},
+        "effects": [
+            {
+                "Entity": "FoodCakeBatter",
+                "Number": 1,
+                "conditions": null,
+                "probability": 1,
+                "id": "CreateEntityReactionEffect",
+                "ReagentEffectFormat": "guidebook-reagent-effect-description"
+            }
+        ]
+    },
+    "Patron": {
+        "id": "Patron",
+        "name": "",
+        "reactants": {
+            "Tequila": {
+                "amount": 10,
+                "catalyst": false
+            },
+            "Silver": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Patron": 10
+        },
+        "effects": []
+    },
+    "Mead": {
+        "id": "Mead",
+        "name": "",
+        "reactants": {
+            "Sugar": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Enzyme": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Mead": 2
+        },
+        "effects": []
+    },
+    "Curdling": {
+        "id": "Curdling",
+        "name": "",
+        "reactants": {
+            "Milk": {
+                "amount": 40,
+                "catalyst": false
+            },
+            "Enzyme": {
+                "amount": 5,
+                "catalyst": true
+            }
+        },
+        "products": {},
+        "effects": [
+            {
+                "Entity": "FoodCheese",
+                "Number": 1,
+                "conditions": null,
+                "probability": 1,
+                "id": "CreateEntityReactionEffect",
+                "ReagentEffectFormat": "guidebook-reagent-effect-description"
+            }
+        ]
+    },
+    "IcedBeerAlt": {
+        "id": "IcedBeerAlt",
+        "name": "",
+        "reactants": {
+            "Beer": {
+                "amount": 10,
+                "catalyst": false
+            },
+            "Frostoil": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "IcedBeer": 10
+        },
+        "effects": []
+    },
+    "AcidSpit": {
+        "id": "AcidSpit",
+        "name": "",
+        "reactants": {
+            "Wine": {
+                "amount": 2,
+                "catalyst": false
+            },
+            "SulfuricAcid": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "AcidSpit": 3
+        },
+        "effects": []
+    },
+    "Smoke": {
+        "id": "Smoke",
+        "name": "",
+        "reactants": {
+            "Phosphorus": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Potassium": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Sugar": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {},
+        "effects": [
+            {
+                "_duration": 10,
+                "OverflowThreshold": {
+                    "Value": 250
+                },
+                "_prototypeId": "Smoke",
+                "_sound": {
+                    "Path": {
+                        "IsSelf": false,
+                        "Extension": "ogg",
+                        "FilenameWithoutExtension": "smoke",
+                        "Filename": "smoke.ogg",
+                        "IsRooted": true,
+                        "IsRelative": false
+                    },
+                    "Params": {
+                        "Attenuation": 0,
+                        "Volume": 0,
+                        "PitchScale": 1,
+                        "BusName": "Master",
+                        "MaxDistance": 25,
+                        "RolloffFactor": 1,
+                        "ReferenceDistance": 1,
+                        "Loop": false,
+                        "PlayOffsetSeconds": 0,
+                        "Variation": null
+                    }
+                },
+                "conditions": null,
+                "probability": 1,
+                "id": "AreaReactionEffect",
+                "ReagentEffectFormat": "guidebook-reagent-effect-description"
+            }
+        ]
+    },
+    "IrishCoffee": {
+        "id": "IrishCoffee",
+        "name": "",
+        "reactants": {
+            "Coffee": {
+                "amount": 2,
+                "catalyst": false
+            },
+            "IrishCream": {
+                "amount": 2,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "IrishCoffee": 4
+        },
+        "effects": []
+    },
+    "SpaceLube": {
+        "id": "SpaceLube",
+        "name": "",
+        "reactants": {
+            "Water": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Silicon": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Oxygen": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "SpaceLube": 3
+        },
+        "effects": []
+    },
+    "ManhattanProject": {
+        "id": "ManhattanProject",
+        "name": "",
+        "reactants": {
+            "Whiskey": {
+                "amount": 10,
+                "catalyst": false
+            },
+            "Uranium": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "ManhattanProject": 10
+        },
+        "effects": []
+    },
+    "CreateButter": {
+        "id": "CreateButter",
+        "name": "",
+        "reactants": {
+            "Milk": {
+                "amount": 30,
+                "catalyst": false
+            },
+            "TableSalt": {
+                "amount": 5,
+                "catalyst": true
+            }
+        },
+        "products": {},
+        "effects": [
+            {
+                "Entity": "FoodButter",
+                "Number": 1,
+                "conditions": null,
+                "probability": 1,
+                "id": "CreateEntityReactionEffect",
+                "ReagentEffectFormat": "guidebook-reagent-effect-description"
+            }
+        ]
+    },
+    "CookingSoysauce": {
+        "id": "CookingSoysauce",
+        "name": "",
+        "reactants": {
+            "MilkSoy": {
+                "amount": 10,
+                "catalyst": false
+            },
+            "SulfuricAcid": {
+                "amount": 5,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Soysauce": 15
+        },
+        "effects": []
+    },
+    "BuzzochloricBees": {
+        "id": "BuzzochloricBees",
+        "name": "",
+        "reactants": {
+            "Saxoite": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Fiber": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "GroundBee": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Chlorine": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "UnstableMutagen": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "BuzzochloricBees": 3
+        },
+        "effects": []
+    },
+    "WhiteGilgamesh": {
+        "id": "WhiteGilgamesh",
+        "name": "",
+        "reactants": {
+            "Beer": {
+                "amount": 2,
+                "catalyst": false
+            },
+            "Milk": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "WhiteGilgamesh": 3
+        },
+        "effects": []
+    },
+    "WhiskeyCola": {
+        "id": "WhiskeyCola",
+        "name": "",
+        "reactants": {
+            "Cola": {
+                "amount": 2,
+                "catalyst": false
+            },
+            "Whiskey": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "WhiskeyCola": 3
+        },
+        "effects": []
+    },
+    "ChevreCurdling": {
+        "id": "ChevreCurdling",
+        "name": "",
+        "reactants": {
+            "MilkGoat": {
+                "amount": 10,
+                "catalyst": false
+            },
+            "Enzyme": {
+                "amount": 5,
+                "catalyst": true
+            }
+        },
+        "products": {},
+        "effects": [
+            {
+                "Entity": "FoodChevre",
+                "Number": 1,
+                "conditions": null,
+                "probability": 1,
+                "id": "CreateEntityReactionEffect",
+                "ReagentEffectFormat": "guidebook-reagent-effect-description"
+            }
+        ]
+    },
+    "IrishCarBomb": {
+        "id": "IrishCarBomb",
+        "name": "",
+        "reactants": {
+            "Ale": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "IrishCream": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "IrishCarBomb": 2
+        },
+        "effects": []
+    },
+    "CubaLibre": {
+        "id": "CubaLibre",
+        "name": "",
+        "reactants": {
+            "Cola": {
+                "amount": 2,
+                "catalyst": false
+            },
+            "Rum": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "CubaLibre": 3
+        },
+        "effects": []
+    },
+    "Dermaline": {
+        "id": "Dermaline",
+        "name": "",
+        "reactants": {
+            "Kelotane": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Oxygen": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Phosphorus": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Dermaline": 3
+        },
+        "effects": []
+    },
+    "Licoxide": {
+        "id": "Licoxide",
+        "name": "",
+        "reactants": {
+            "Lead": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Zinc": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Licoxide": 1
+        },
+        "effects": []
+    },
+    "Saline": {
+        "id": "Saline",
+        "name": "",
+        "reactants": {
+            "Water": {
+                "amount": 4,
+                "catalyst": false
+            },
+            "TableSalt": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Saline": 5
+        },
+        "effects": []
+    },
+    "FourteenLoko": {
+        "id": "FourteenLoko",
+        "name": "",
+        "reactants": {
+            "Coffee": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "JuiceLime": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Vodka": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "FourteenLoko": 3
+        },
+        "effects": []
+    },
+    "CreateMeatball": {
+        "id": "CreateMeatball",
+        "name": "",
+        "reactants": {
+            "UncookedAnimalProteins": {
+                "amount": 5,
+                "catalyst": false
+            },
+            "Flour": {
+                "amount": 5,
+                "catalyst": false
+            },
+            "Egg": {
+                "amount": 6,
+                "catalyst": false
+            }
+        },
+        "products": {},
+        "effects": [
+            {
+                "Entity": "FoodMeatMeatball",
+                "Number": 1,
+                "conditions": null,
+                "probability": 1,
+                "id": "CreateEntityReactionEffect",
+                "ReagentEffectFormat": "guidebook-reagent-effect-description"
+            }
+        ]
+    },
+    "Sigynate": {
+        "id": "Sigynate",
+        "name": "",
+        "reactants": {
+            "SodiumCarbonate": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Kelotane": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Water": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Sugar": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Sigynate": 4
+        },
+        "effects": []
+    },
+    "Foam": {
+        "id": "Foam",
+        "name": "",
+        "reactants": {
+            "Fluorosurfactant": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Water": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {},
+        "effects": [
+            {
+                "_duration": 10,
+                "OverflowThreshold": {
+                    "Value": 250
+                },
+                "_prototypeId": "Foam",
+                "_sound": {
+                    "Path": {
+                        "IsSelf": false,
+                        "Extension": "ogg",
+                        "FilenameWithoutExtension": "extinguish",
+                        "Filename": "extinguish.ogg",
+                        "IsRooted": true,
+                        "IsRelative": false
+                    },
+                    "Params": {
+                        "Attenuation": 0,
+                        "Volume": 0,
+                        "PitchScale": 1,
+                        "BusName": "Master",
+                        "MaxDistance": 25,
+                        "RolloffFactor": 1,
+                        "ReferenceDistance": 1,
+                        "Loop": false,
+                        "PlayOffsetSeconds": 0,
+                        "Variation": null
+                    }
+                },
+                "conditions": null,
+                "probability": 1,
+                "id": "AreaReactionEffect",
+                "ReagentEffectFormat": "guidebook-reagent-effect-description"
+            }
+        ]
+    },
+    "CookingHotsauce": {
+        "id": "CookingHotsauce",
+        "name": "",
+        "reactants": {
+            "JuiceTomato": {
+                "amount": 5,
+                "catalyst": false
+            },
+            "TableSalt": {
+                "amount": 5,
+                "catalyst": false
+            },
+            "CapsaicinOil": {
+                "amount": 5,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Hotsauce": 15
+        },
+        "effects": []
+    },
+    "IronMetalFoam": {
+        "id": "IronMetalFoam",
+        "name": "",
+        "reactants": {
+            "Iron": {
+                "amount": 3,
+                "catalyst": false
+            },
+            "FoamingAgent": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "FluorosulfuricAcid": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {},
+        "effects": [
+            {
+                "_duration": 10,
+                "OverflowThreshold": {
+                    "Value": 250
+                },
+                "_prototypeId": "IronMetalFoam",
+                "_sound": {
+                    "Path": {
+                        "IsSelf": false,
+                        "Extension": "ogg",
+                        "FilenameWithoutExtension": "extinguish",
+                        "Filename": "extinguish.ogg",
+                        "IsRooted": true,
+                        "IsRelative": false
+                    },
+                    "Params": {
+                        "Attenuation": 0,
+                        "Volume": 0,
+                        "PitchScale": 1,
+                        "BusName": "Master",
+                        "MaxDistance": 25,
+                        "RolloffFactor": 1,
+                        "ReferenceDistance": 1,
+                        "Loop": false,
+                        "PlayOffsetSeconds": 0,
+                        "Variation": null
+                    }
+                },
+                "conditions": null,
+                "probability": 1,
+                "id": "AreaReactionEffect",
+                "ReagentEffectFormat": "guidebook-reagent-effect-description"
+            }
+        ]
+    },
+    "HippiesDelight": {
+        "id": "HippiesDelight",
+        "name": "",
+        "reactants": {
+            "GargleBlaster": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "THC": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "HippiesDelight": 2
+        },
+        "effects": []
+    },
+    "Manhattan": {
+        "id": "Manhattan",
+        "name": "",
+        "reactants": {
+            "Whiskey": {
+                "amount": 2,
+                "catalyst": false
+            },
+            "Vermouth": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Manhattan": 3
+        },
+        "effects": []
+    },
+    "ToxinsSpecial": {
+        "id": "ToxinsSpecial",
+        "name": "",
+        "reactants": {
+            "Rum": {
+                "amount": 2,
+                "catalyst": false
+            },
+            "Vermouth": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Plasma": {
+                "amount": 2,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "ToxinsSpecial": 5
+        },
+        "effects": []
+    },
+    "BloodToWine": {
+        "id": "BloodToWine",
+        "name": "",
+        "reactants": {
+            "Blood": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Wine": 1
+        },
+        "effects": []
+    },
+    "Oil": {
+        "id": "Oil",
+        "name": "",
+        "reactants": {
+            "WeldingFuel": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Carbon": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Hydrogen": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Oil": 3
+        },
+        "effects": []
+    },
+    "TequilaSunrise": {
+        "id": "TequilaSunrise",
+        "name": "",
+        "reactants": {
+            "JuiceOrange": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Tequila": {
+                "amount": 2,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "TequilaSunrise": 3
+        },
+        "effects": []
+    },
+    "IcedCoffee": {
+        "id": "IcedCoffee",
+        "name": "",
+        "reactants": {
+            "Coffee": {
+                "amount": 2,
+                "catalyst": false
+            },
+            "Ice": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "IcedCoffee": 3
+        },
+        "effects": []
+    },
+    "Posca": {
+        "id": "Posca",
+        "name": "",
+        "reactants": {
+            "TableSalt": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Vinegar": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Water": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Posca": 3
+        },
+        "effects": []
+    },
+    "Ambuzol": {
+        "id": "Ambuzol",
+        "name": "",
+        "reactants": {
+            "Dylovene": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Ammonia": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Blood": {
+                "amount": 2,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Ambuzol": 4
+        },
+        "effects": []
+    },
+    "BraveBull": {
+        "id": "BraveBull",
+        "name": "",
+        "reactants": {
+            "CoffeeLiqueur": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Tequila": {
+                "amount": 2,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "BraveBull": 3
+        },
+        "effects": []
+    },
+    "Ultravasculine": {
+        "id": "Ultravasculine",
+        "name": "",
+        "reactants": {
+            "Histamine": {
+                "amount": 2,
+                "catalyst": false
+            },
+            "Plasma": {
+                "amount": 1,
+                "catalyst": true
+            }
+        },
+        "products": {
+            "Ultravasculine": 2
+        },
+        "effects": []
+    },
+    "Cola": {
+        "id": "Cola",
+        "name": "",
+        "reactants": {
+            "Ipecac": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Oxygen": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Water": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Sugar": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Cola": 4
+        },
+        "effects": []
+    },
+    "Booger": {
+        "id": "Booger",
+        "name": "",
+        "reactants": {
+            "Cream": {
+                "amount": 2,
+                "catalyst": false
+            },
+            "JuiceBanana": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "JuiceWatermelon": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Rum": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Booger": 5
+        },
+        "effects": []
+    },
+    "Pax": {
+        "id": "Pax",
+        "name": "",
+        "reactants": {
+            "MindbreakerToxin": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Synaptizine": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Water": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Pax": 3
+        },
+        "effects": []
+    },
+    "NorepinephricAcid": {
+        "id": "NorepinephricAcid",
+        "name": "",
+        "reactants": {
+            "Uranium": {
+                "amount": 2,
+                "catalyst": false
+            },
+            "Hydrogen": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Oxygen": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "NorepinephricAcid": 2
+        },
+        "effects": []
+    },
+    "TheMartinez": {
+        "id": "TheMartinez",
+        "name": "",
+        "reactants": {
+            "Cola": {
+                "amount": 2,
+                "catalyst": false
+            },
+            "Vodka": {
+                "amount": 2,
+                "catalyst": false
+            },
+            "Ice": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "JuiceLemon": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "TheMartinez": 6
+        },
+        "effects": []
+    },
+    "Ethyloxyephedrine": {
+        "id": "Ethyloxyephedrine",
+        "name": "",
+        "reactants": {
+            "Desoxyephedrine": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Stellibinin": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Ethyloxyephedrine": 2
+        },
+        "effects": []
+    },
+    "AmbuzolPlus": {
+        "id": "AmbuzolPlus",
+        "name": "",
+        "reactants": {
+            "Ambuzol": {
+                "amount": 5,
+                "catalyst": false
+            },
+            "ZombieBlood": {
+                "amount": 15,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Blood": 15,
+            "AmbuzolPlus": 5
+        },
+        "effects": []
+    },
+    "CookingVinaigrette": {
+        "id": "CookingVinaigrette",
+        "name": "",
+        "reactants": {
+            "Vinegar": {
+                "amount": 5,
+                "catalyst": false
+            },
+            "OilOlive": {
+                "amount": 5,
+                "catalyst": false
+            },
+            "Blackpepper": {
+                "amount": 5,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Vinaigrette": 15
+        },
+        "effects": []
+    },
+    "Arithrazine": {
+        "id": "Arithrazine",
+        "name": "",
+        "reactants": {
+            "Hyronalin": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Hydrogen": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Arithrazine": 2
+        },
+        "effects": []
+    },
+    "GargleBlaster": {
+        "id": "GargleBlaster",
+        "name": "",
+        "reactants": {
+            "Cognac": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Gin": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "JuiceLime": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Vodka": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Whiskey": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "GargleBlaster": 5
+        },
+        "effects": []
+    },
+    "IceCream": {
+        "id": "IceCream",
+        "name": "",
+        "reactants": {
+            "Cream": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Ice": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Sugar": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "IceCream": 3
+        },
+        "effects": []
+    },
+    "DoctorsDelight": {
+        "id": "DoctorsDelight",
+        "name": "",
+        "reactants": {
+            "Cream": {
+                "amount": 2,
+                "catalyst": false
+            },
+            "JuiceLime": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "JuiceOrange": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "JuiceTomato": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Tricordrazine": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "DoctorsDelight": 6
+        },
+        "effects": []
+    },
+    "Acetone": {
+        "id": "Acetone",
+        "name": "",
+        "reactants": {
+            "Oil": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "WeldingFuel": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Oxygen": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Acetone": 2
+        },
+        "effects": []
+    },
+    "GinTonic": {
+        "id": "GinTonic",
+        "name": "",
+        "reactants": {
+            "Gin": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "TonicWater": {
+                "amount": 2,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "GinTonic": 3
+        },
+        "effects": []
+    },
+    "Lemonade": {
+        "id": "Lemonade",
+        "name": "",
+        "reactants": {
+            "JuiceLemon": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Sugar": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Water": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Lemonade": 3
+        },
+        "effects": []
+    },
+    "FoamingAgent": {
+        "id": "FoamingAgent",
+        "name": "",
+        "reactants": {
+            "Lithium": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Hydrogen": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "FoamingAgent": 2
+        },
+        "effects": []
+    },
+    "CreateSoap": {
+        "id": "CreateSoap",
+        "name": "",
+        "reactants": {
+            "Fat": {
+                "amount": 15,
+                "catalyst": false
+            },
+            "TableSalt": {
+                "amount": 10,
+                "catalyst": false
+            },
+            "Water": {
+                "amount": 10,
+                "catalyst": false
+            }
+        },
+        "products": {},
+        "effects": [
+            {
+                "Entity": "Soap",
+                "Number": 1,
+                "conditions": null,
+                "probability": 1,
+                "id": "CreateEntityReactionEffect",
+                "ReagentEffectFormat": "guidebook-reagent-effect-description"
+            }
+        ]
+    },
+    "PlasticSheet": {
+        "id": "PlasticSheet",
+        "name": "",
+        "reactants": {
+            "Oil": {
+                "amount": 5,
+                "catalyst": false
+            },
+            "Ash": {
+                "amount": 3,
+                "catalyst": false
+            },
+            "SulfuricAcid": {
+                "amount": 2,
+                "catalyst": false
+            }
+        },
+        "products": {},
+        "effects": [
+            {
+                "Entity": "SheetPlastic1",
+                "Number": 1,
+                "conditions": null,
+                "probability": 1,
+                "id": "CreateEntityReactionEffect",
+                "ReagentEffectFormat": "guidebook-reagent-effect-description"
+            }
+        ]
+    },
+    "Epinephrine": {
+        "id": "Epinephrine",
+        "name": "",
+        "reactants": {
+            "Phenol": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Acetone": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Oxygen": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Chlorine": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Hydrogen": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Epinephrine": 5
+        },
+        "effects": []
+    },
+    "Bleach": {
+        "id": "Bleach",
+        "name": "",
+        "reactants": {
+            "TableSalt": {
+                "amount": 2,
+                "catalyst": false
+            },
+            "SpaceCleaner": {
+                "amount": 2,
+                "catalyst": false
+            },
+            "Oxygen": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Bleach": 5
+        },
+        "effects": []
+    },
+    "Kelotane": {
+        "id": "Kelotane",
+        "name": "",
+        "reactants": {
+            "Silicon": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Carbon": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Kelotane": 2
+        },
+        "effects": []
+    },
+    "Oculine": {
+        "id": "Oculine",
+        "name": "",
+        "reactants": {
+            "TableSalt": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Blood": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Carbon": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Hydrogen": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Oculine": 4
+        },
+        "effects": []
+    },
+    "Dylovene": {
+        "id": "Dylovene",
+        "name": "",
+        "reactants": {
+            "Silicon": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Nitrogen": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Potassium": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Dylovene": 3
+        },
+        "effects": []
+    },
+    "Pilk": {
+        "id": "Pilk",
+        "name": "",
+        "reactants": {
+            "Cola": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Milk": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Pilk": 2
+        },
+        "effects": []
+    },
+    "CookingMustard": {
+        "id": "CookingMustard",
+        "name": "",
+        "reactants": {
+            "Bleach": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Ammonia": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Mustard": 2
+        },
+        "effects": []
+    },
+    "SnowWhite": {
+        "id": "SnowWhite",
+        "name": "",
+        "reactants": {
+            "Beer": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "LemonLime": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "SnowWhite": 3
+        },
+        "effects": []
+    },
+    "PlantBGone": {
+        "id": "PlantBGone",
+        "name": "",
+        "reactants": {
+            "Toxin": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Water": {
+                "amount": 4,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "PlantBGone": 5
+        },
+        "effects": []
+    },
+    "Mojito": {
+        "id": "Mojito",
+        "name": "",
+        "reactants": {
+            "JuiceLime": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Rum": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "SodaWater": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Sugar": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Mojito": 4
+        },
+        "effects": []
+    },
+    "Phlogiston": {
+        "id": "Phlogiston",
+        "name": "",
+        "reactants": {
+            "Phosphorus": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "SulfuricAcid": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Plasma": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Phlogiston": 3
+        },
+        "effects": [
+            {
+                "Gas": 3,
+                "Multiplier": 3,
+                "conditions": null,
+                "probability": 1,
+                "id": "CreateGas",
+                "ReagentEffectFormat": "guidebook-reagent-effect-description"
+            },
+            {
+                "Messages": [
+                    "phlogiston-plasma-created"
+                ],
+                "Type": 0,
+                "VisualType": 5,
+                "conditions": null,
+                "probability": 1,
+                "id": "PopupMessage",
+                "ReagentEffectFormat": "guidebook-reagent-effect-description"
+            }
+        ]
+    },
+    "Carpetium": {
+        "id": "Carpetium",
+        "name": "",
+        "reactants": {
+            "SpaceDrugs": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Fiber": {
+                "amount": 2,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Carpetium": 3
+        },
+        "effects": []
+    },
+    "ChloralHydrate": {
+        "id": "ChloralHydrate",
+        "name": "",
+        "reactants": {
+            "Chlorine": {
+                "amount": 3,
+                "catalyst": false
+            },
+            "Ethanol": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Water": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "ChloralHydrate": 1
+        },
+        "effects": []
+    },
+    "Bicaridine": {
+        "id": "Bicaridine",
+        "name": "",
+        "reactants": {
+            "Inaprovaline": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Carbon": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Bicaridine": 2
+        },
+        "effects": []
+    },
+    "Moonshine": {
+        "id": "Moonshine",
+        "name": "",
+        "reactants": {
+            "Tequila": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Vodka": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Whiskey": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Moonshine": 3
+        },
+        "effects": []
+    },
+    "IcedBeer": {
+        "id": "IcedBeer",
+        "name": "",
+        "reactants": {
+            "Beer": {
+                "amount": 5,
+                "catalyst": false
+            },
+            "Ice": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "IcedBeer": 5
+        },
+        "effects": []
+    },
+    "DevilsKiss": {
+        "id": "DevilsKiss",
+        "name": "",
+        "reactants": {
+            "Rum": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Blood": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "CoffeeLiqueur": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "DevilsKiss": 3
+        },
+        "effects": []
+    },
+    "CookingVinegar": {
+        "id": "CookingVinegar",
+        "name": "",
+        "reactants": {
+            "Ethanol": {
+                "amount": 5,
+                "catalyst": false
+            },
+            "Oxygen": {
+                "amount": 5,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Vinegar": 10
+        },
+        "effects": []
+    },
+    "Rewriter": {
+        "id": "Rewriter",
+        "name": "",
+        "reactants": {
+            "Coffee": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "SpaceMountainWind": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Rewriter": 2
+        },
+        "effects": []
+    },
+    "Ammonia": {
+        "id": "Ammonia",
+        "name": "",
+        "reactants": {
+            "Hydrogen": {
+                "amount": 3,
+                "catalyst": false
+            },
+            "Nitrogen": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Ammonia": 4
+        },
+        "effects": []
+    },
+    "Cryoxadone": {
+        "id": "Cryoxadone",
+        "name": "",
+        "reactants": {
+            "Dexalin": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Water": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Oxygen": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Cryoxadone": 3
+        },
+        "effects": []
+    },
+    "Andalusia": {
+        "id": "Andalusia",
+        "name": "",
+        "reactants": {
+            "Rum": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Whiskey": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "JuiceLemon": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Andalusia": 3
+        },
+        "effects": []
+    },
+    "MuteToxin": {
+        "id": "MuteToxin",
+        "name": "",
+        "reactants": {
+            "Uranium": {
+                "amount": 2,
+                "catalyst": false
+            },
+            "Water": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Carbon": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "MuteToxin": 2
+        },
+        "effects": []
+    },
+    "DriestMartini": {
+        "id": "DriestMartini",
+        "name": "",
+        "reactants": {
+            "Gin": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Nothing": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "DriestMartini": 2
+        },
+        "effects": []
+    },
+    "BananaHonk": {
+        "id": "BananaHonk",
+        "name": "",
+        "reactants": {
+            "Cream": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "JuiceBanana": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Sugar": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "BananaHonk": 3
+        },
+        "effects": []
+    },
+    "RobustHarvest": {
+        "id": "RobustHarvest",
+        "name": "",
+        "reactants": {
+            "EZNutrient": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "SulfuricAcid": {
+                "amount": 1,
+                "catalyst": true
+            }
+        },
+        "products": {
+            "RobustHarvest": 1
+        },
+        "effects": []
+    },
+    "Martini": {
+        "id": "Martini",
+        "name": "",
+        "reactants": {
+            "Gin": {
+                "amount": 2,
+                "catalyst": false
+            },
+            "Vermouth": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Martini": 3
+        },
+        "effects": []
+    },
+    "ChlorineTrifluoride": {
+        "id": "ChlorineTrifluoride",
+        "name": "",
+        "reactants": {
+            "Chlorine": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Fluorine": {
+                "amount": 3,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "ChlorineTrifluoride": 4
+        },
+        "effects": [
+            {
+                "conditions": null,
+                "probability": 1,
+                "id": "ExplosionReactionEffect",
+                "ReagentEffectFormat": "guidebook-reagent-effect-description"
+            },
+            {
+                "Messages": [
+                    "clf3-explosion"
+                ],
+                "Type": 0,
+                "VisualType": 5,
+                "conditions": null,
+                "probability": 1,
+                "id": "PopupMessage",
+                "ReagentEffectFormat": "guidebook-reagent-effect-description"
+            }
+        ]
+    },
+    "B52": {
+        "id": "B52",
+        "name": "",
+        "reactants": {
+            "Cognac": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "IrishCarBomb": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "CoffeeLiqueur": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "B52": 3
+        },
+        "effects": []
+    },
+    "SpaceGlue": {
+        "id": "SpaceGlue",
+        "name": "",
+        "reactants": {
+            "SpaceLube": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Slime": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "SpaceGlue": 2
+        },
+        "effects": []
+    },
+    "Phenol": {
+        "id": "Phenol",
+        "name": "",
+        "reactants": {
+            "Oxygen": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Hydrogen": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Carbon": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Phenol": 3
+        },
+        "effects": []
+    },
+    "AlliesCocktail": {
+        "id": "AlliesCocktail",
+        "name": "",
+        "reactants": {
+            "Martini": {
+                "amount": 2,
+                "catalyst": false
+            },
+            "Vodka": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "AlliesCocktail": 3
+        },
+        "effects": []
+    },
+    "CreateSoapHomemade": {
+        "id": "CreateSoapHomemade",
+        "name": "",
+        "reactants": {
+            "Fat": {
+                "amount": 15,
+                "catalyst": false
+            },
+            "TableSalt": {
+                "amount": 10,
+                "catalyst": false
+            },
+            "Blood": {
+                "amount": 10,
+                "catalyst": false
+            }
+        },
+        "products": {},
+        "effects": [
+            {
+                "Entity": "SoapHomemade",
+                "Number": 1,
+                "conditions": null,
+                "probability": 1,
+                "id": "CreateEntityReactionEffect",
+                "ReagentEffectFormat": "guidebook-reagent-effect-description"
+            }
+        ]
+    },
+    "ManlyDorf": {
+        "id": "ManlyDorf",
+        "name": "",
+        "reactants": {
+            "Ale": {
+                "amount": 2,
+                "catalyst": false
+            },
+            "Beer": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "ManlyDorf": 3
+        },
+        "effects": []
+    },
+    "VodkaMartini": {
+        "id": "VodkaMartini",
+        "name": "",
+        "reactants": {
+            "Vermouth": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Vodka": {
+                "amount": 2,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "VodkaMartini": 3
+        },
+        "effects": []
+    },
+    "CookingKetchup": {
+        "id": "CookingKetchup",
+        "name": "",
+        "reactants": {
+            "JuiceTomato": {
+                "amount": 10,
+                "catalyst": false
+            },
+            "Sugar": {
+                "amount": 5,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Ketchup": 15
+        },
+        "effects": []
+    },
+    "Desoxyephedrine": {
+        "id": "Desoxyephedrine",
+        "name": "",
+        "reactants": {
+            "Ephedrine": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Carbon": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Iodine": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Phosphorus": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Desoxyephedrine": 4
+        },
+        "effects": []
+    },
+    "SuiDream": {
+        "id": "SuiDream",
+        "name": "",
+        "reactants": {
+            "SpaceUp": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "BlueCuracao": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "MelonLiquor": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "SuiDream": 3
+        },
+        "effects": []
+    },
+    "SodiumCarbonate": {
+        "id": "SodiumCarbonate",
+        "name": "",
+        "reactants": {
+            "Ammonia": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "TableSalt": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Carbon": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Oxygen": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "SodiumCarbonate": 4
+        },
+        "effects": []
+    },
+    "CreateDough": {
+        "id": "CreateDough",
+        "name": "",
+        "reactants": {
+            "Flour": {
+                "amount": 15,
+                "catalyst": false
+            },
+            "Water": {
+                "amount": 10,
+                "catalyst": false
+            }
+        },
+        "products": {},
+        "effects": [
+            {
+                "Entity": "FoodDough",
+                "Number": 1,
+                "conditions": null,
+                "probability": 1,
+                "id": "CreateEntityReactionEffect",
+                "ReagentEffectFormat": "guidebook-reagent-effect-description"
+            }
+        ]
+    },
+    "Fluorosurfactant": {
+        "id": "Fluorosurfactant",
+        "name": "",
+        "reactants": {
+            "Carbon": {
+                "amount": 2,
+                "catalyst": false
+            },
+            "Fluorine": {
+                "amount": 2,
+                "catalyst": false
+            },
+            "SulfuricAcid": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Fluorosurfactant": 5
+        },
+        "effects": []
+    },
+    "CogChamp": {
+        "id": "CogChamp",
+        "name": "",
+        "reactants": {
+            "Cognac": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "ScrewdriverCocktail": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "WeldingFuel": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "CogChamp": 3
+        },
+        "effects": []
+    },
+    "Grog": {
+        "id": "Grog",
+        "name": "",
+        "reactants": {
+            "Rum": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Water": {
+                "amount": 2,
+                "catalyst": false
+            },
+            "Sugar": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "Grog": 4
+        },
+        "effects": []
+    },
+    "NuclearCola": {
+        "id": "NuclearCola",
+        "name": "",
+        "reactants": {
+            "Cola": {
+                "amount": 5,
+                "catalyst": false
+            },
+            "Uranium": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "NuclearCola": 5
+        },
+        "effects": []
+    },
+    "BlackRussian": {
+        "id": "BlackRussian",
+        "name": "",
+        "reactants": {
+            "CoffeeLiqueur": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Vodka": {
+                "amount": 2,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "BlackRussian": 3
+        },
+        "effects": []
+    },
+    "ScrewdriverCocktail": {
+        "id": "ScrewdriverCocktail",
+        "name": "",
+        "reactants": {
+            "JuiceOrange": {
+                "amount": 2,
+                "catalyst": false
+            },
+            "Vodka": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "ScrewdriverCocktail": 3
+        },
+        "effects": []
+    },
+    "SpaceCleaner": {
+        "id": "SpaceCleaner",
+        "name": "",
+        "reactants": {
+            "Ammonia": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Water": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "SpaceCleaner": 2
+        },
+        "effects": []
+    },
+    "LemonLime": {
+        "id": "LemonLime",
+        "name": "",
+        "reactants": {
+            "JuiceLemon": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "JuiceLime": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "SodaWater": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "LemonLime": 3
+        },
+        "effects": []
+    },
+    "CreateTofu": {
+        "id": "CreateTofu",
+        "name": "",
+        "reactants": {
+            "MilkSoy": {
+                "amount": 30,
+                "catalyst": false
+            },
+            "Enzyme": {
+                "amount": 5,
+                "catalyst": false
+            }
+        },
+        "products": {},
+        "effects": [
+            {
+                "Entity": "FoodTofu",
+                "Number": 1,
+                "conditions": null,
+                "probability": 1,
+                "id": "CreateEntityReactionEffect",
+                "ReagentEffectFormat": "guidebook-reagent-effect-description"
+            }
+        ]
+    },
+    "Meatification": {
+        "id": "Meatification",
+        "name": "",
+        "reactants": {
+            "Fat": {
+                "amount": 25,
+                "catalyst": false
+            },
+            "Nutriment": {
+                "amount": 5,
+                "catalyst": false
+            },
+            "Blood": {
+                "amount": 10,
+                "catalyst": false
+            },
+            "Carbon": {
+                "amount": 10,
+                "catalyst": false
+            }
+        },
+        "products": {},
+        "effects": [
+            {
+                "Entity": "FoodMeat",
+                "Number": 1,
+                "conditions": null,
+                "probability": 1,
+                "id": "CreateEntityReactionEffect",
+                "ReagentEffectFormat": "guidebook-reagent-effect-description"
+            }
+        ]
+    },
+    "KiraSpecial": {
+        "id": "KiraSpecial",
+        "name": "",
+        "reactants": {
+            "JuiceLime": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "JuiceOrange": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "SodaWater": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "KiraSpecial": 3
+        },
+        "effects": []
+    },
+    "UraniumEmpExplosion": {
+        "id": "UraniumEmpExplosion",
+        "name": "",
+        "reactants": {
+            "Iron": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Uranium": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Aluminium": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {},
+        "effects": [
+            {
+                "EmpRangePerUnit": 0.2,
+                "EmpMaxRange": 6,
+                "EnergyConsumption": 12500,
+                "DisableDuration": 15,
+                "conditions": null,
+                "probability": 1,
+                "id": "EmpReactionEffect",
+                "ReagentEffectFormat": "guidebook-reagent-effect-description"
+            }
+        ]
+    },
+    "BeepskySmash": {
+        "id": "BeepskySmash",
+        "name": "",
+        "reactants": {
+            "Iron": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "JuiceLime": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Whiskey": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "BeepskySmash": 2
+        },
+        "effects": []
+    },
+    "SpaceDrugs": {
+        "id": "SpaceDrugs",
+        "name": "",
+        "reactants": {
+            "Mercury": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Sugar": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Lithium": {
+                "amount": 1,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "SpaceDrugs": 3
+        },
+        "effects": []
+    },
+    "IcedTea": {
+        "id": "IcedTea",
+        "name": "",
+        "reactants": {
+            "Ice": {
+                "amount": 1,
+                "catalyst": false
+            },
+            "Tea": {
+                "amount": 2,
+                "catalyst": false
+            }
+        },
+        "products": {
+            "IcedTea": 3
+        },
+        "effects": []
+    }
+}

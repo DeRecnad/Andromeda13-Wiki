@@ -72,8 +72,18 @@ $wgDBTableOptions = "ENGINE=InnoDB, DEFAULT CHARSET=binary";
 $wgSharedTables[] = "actor";
 
 ## Shared memory settings
-$wgMainCacheType = CACHE_NONE;
-$wgMemCachedServers = [];
+
+# Включение кэширования
+$wgMainCacheType = CACHE_ACCEL;  // Используйте CACHE_NONE, чтобы отключить кэширование
+
+# Путь к директории для сохранения кэша (указывается абсолютный путь)
+$wgCacheDirectory = "$IP/cache";
+
+# Время жизни кэшированных данных (в секундах)
+$wgParserCacheExpireTime = 604800;  // Неделя
+
+# Включение кэширования изображений
+$wgEnableUploads = true;
 
 ## To enable image uploads, make sure the 'images' directory
 ## is writable, then set this to true:
@@ -154,7 +164,9 @@ wfLoadExtension( 'ParserFunctions' );
 wfLoadExtension( 'PdfHandler' );
 wfLoadExtension( 'Poem' );
 wfLoadExtension( 'ReplaceText' );
+
 wfLoadExtension( 'Scribunto' );
+
 wfLoadExtension( 'SecureLinkFixer' );
 wfLoadExtension( 'SpamBlacklist' );
 wfLoadExtension( 'SyntaxHighlight_GeSHi' );
@@ -164,8 +176,16 @@ wfLoadExtension( 'TitleBlacklist' );
 wfLoadExtension( 'VisualEditor' );
 wfLoadExtension( 'WikiEditor' );
 
+$wgScribuntoUseGeSHi = true;
+$wgScribuntoUseCodeEditor = true;
+
 $wgScribuntoDefaultEngine = 'luastandalone';
-$wgScribuntoEngineConf['luastandalone']['luaPath'] = 'C:\Program Files\lua';
+
+$wgScribuntoEngineConf['luastandalone']['luaPath'] = 'D:\Programs\Xampp\htdocs\mediawiki\extensions\Scribunto\includes\Engines\LuaStandalone\binaries\lua5_1_5_Win64_bin\lua5.1.exe';
+# $wgScribuntoEngineConf['luastandalone']['luaPath'] = '/path/to/binaries/lua5.1'
+# $wgScribuntoEngineConf['luastandalone']['luaPath'] = '/usr/bin/lua';
+
+$wgScribuntoEngineConf['luastandalone']['errorFile'] = 'D:\Programs\Xampp\htdocs\mediawiki\errorLogs.txt';
 # End of automatically generated settings.
 # Add more configuration options below.
  
