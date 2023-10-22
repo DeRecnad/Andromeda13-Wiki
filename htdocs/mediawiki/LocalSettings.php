@@ -127,6 +127,7 @@ $wgDefaultSkin = "Citizen";
 # Enabled skins.
 # The following skins were automatically enabled:
 wfLoadSkin( 'Citizen' );
+$wgCitizenThemeDefault = "dark";
 
 
 # Enabled extensions. Most of the extensions are enabled by adding
@@ -163,7 +164,8 @@ wfLoadExtension( 'TitleBlacklist' );
 wfLoadExtension( 'VisualEditor' );
 wfLoadExtension( 'WikiEditor' );
 
-
+$wgScribuntoDefaultEngine = 'luastandalone';
+$wgScribuntoEngineConf['luastandalone']['luaPath'] = 'C:\Program Files\lua';
 # End of automatically generated settings.
 # Add more configuration options below.
-
+ 
